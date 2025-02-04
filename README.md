@@ -1,1 +1,1 @@
-# -Finland-Temperature-Analysis-and-Animation
+# Finland Temperature Analysis & Animation
