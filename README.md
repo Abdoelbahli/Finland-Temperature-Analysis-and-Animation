@@ -26,15 +26,14 @@ my_project_root/
 │       ├── fi.prj
 │       ├── fi.shp
 │       └── fi.shx
-├── transforming/
-│   ├── transform.py                 # Script to convert NetCDF to GeoTIFF
-│   ├── tem_analysis.ipynb           # Jupyter Notebook for clipping, processing, and animation
-│   ├── temperature_animation.gif    # Output animated GIF
-│   └── temp_images/                 # Folder containing individual frame PNG images
-│       ├── frame_001.png
-│       ├── frame_002.png
-│       ├── frame_003.png
-│       └── ... (up to frame_252.png)
+├── transform.py                 # Script to convert NetCDF to GeoTIFF
+├── tem_analysis.ipynb           # Jupyter Notebook for clipping, processing, and animation
+├── temperature_animation.gif    # Output animated GIF
+└── temp_images/                 # Folder containing individual frame PNG images
+    ├── frame_001.png
+    ├── frame_002.png
+    ├── frame_003.png
+    └── ... (up to frame_252.png)
 ```
 
 ## Prerequisites
